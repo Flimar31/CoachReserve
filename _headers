@@ -1,9 +1,0 @@
-# Netlify / Cloudflare Pages : ne jamais garder en cache HTTP les fichiers qui décident des mises à jour
-/index.html
-  Cache-Control: no-cache
-/sw.js
-  Cache-Control: no-cache
-/version.json
-  Cache-Control: no-store
-/manifest.webmanifest
-  Cache-Control: no-cache
